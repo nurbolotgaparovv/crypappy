@@ -1,0 +1,564 @@
+@media (max-width: 1140px) {
+  #perfect .perfect-_togo-_feature-_texts-_text {
+    font-size: 15px;
+  }
+  #perfect .perfect-_togo-_feature-_texts h2 {
+    font-size: 15px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_logo {
+    font-size: 11px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_text {
+    font-size: 15px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_text {
+    font-size: 15px;
+  }
+  #perfect .perfect-_togo-_feature-_texts {
+    padding: 5% 0;
+  }
+  #perfect .perfect-_togo-_description-_texts {
+    padding: 5% 0;
+  }
+  #perfect .perfect-_togo-_feature-_texts-_text {
+    font-size: 10px;
+  }
+  #perfect .perfect img {
+    height: 10%;
+  }
+  #hero .hero P {
+    width: 584px;
+  }
+
+  #reviews .reviews-_fox-_text {
+    font-size: 12px;
+  }
+
+  #discounts .discounts-_tittle {
+    font-size: 13px;
+  }
+
+  #new .new-_texts-_tittle {
+    width: 362px;
+  }
+
+  #mobile .mobile-_tittle {
+    width: 170%;
+    font-size: 20px;
+  }
+
+  #mobile .mobile-_logo {
+    width: 79%;
+  }
+
+  #mobile .mobile-_texts-_tittle {
+    font-size: 14px;
+  }
+  [aos-easing=ease] [data-aos] {
+    width: 50%;
+    transition-timing-function: ease;
+  }
+}
+@media (max-width: 1024px) {
+  #hero .hero P {
+    width: 550px;
+  }
+
+  #hero .hero-_images {
+    padding: 0 0 50px 0;
+  }
+
+  #new .new-_texts-_tittle {
+    width: 330px;
+  }
+
+  #perfect .perfect-_togo-_feature-_texts-_text {
+    font-size: 12px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_logo {
+    font-size: 12px;
+  }
+  #perfect .perfect-_togo-_feature-_texts h2 {
+    font-size: 20px;
+  }
+  #perfect .perfect-_togo-_feature-_texts-_text {
+    font-size: 8px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_text {
+    font-size: 20px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_logo {
+    font-size: 8px;
+  }
+  #mobile .mobile-_tittle {
+    width: 131%;
+    font-size: 18px;
+  }
+  #mobile .mobile-_logo {
+    width: 100%;
+  }
+  #reviews .reviews-_fox-_text {
+    font-size: 10px;
+  }
+  #discounts .discounts-_tittle {
+    font-size: 10px;
+  }
+  #discounts .discounts-_text {
+    font-size: 35px;
+  }
+}
+@media (max-width: 992px) {
+  #hero .hero P {
+    width: 524px;
+  }
+  #new .new h5 {
+    font-size: 15px;
+  }
+  #hero .hero h1 {
+    font-size: 53px;
+    line-height: 66px;
+  }
+}
+@media (max-width: 768px) {
+  #new .new-_texts-_tittle {
+    width: 80%;
+  }
+  #hero .hero P {
+    width: 70%;
+  }
+
+  #hero .hero h1 {
+    font-size: 120%;
+  }
+
+  #perfect .perfect img {
+    height: 10%;
+  }
+
+  #new .new h1 {
+    font-size: 30px;
+  }
+  #new .new h1 {
+    font-size: 90%;
+  }
+  #perfect .perfect-_text {
+    width: 54%;
+  }
+  #perfect .perfect-_togo-_feature-_texts h2 {
+    font-size: 14px;
+  }
+  #perfect .perfect-_togo-_feature-_texts-_text {
+    font-size: 6px;
+  }
+  #perfect .perfect-_togo-_feature-_texts {
+    padding: 1% 0;
+  }
+  #perfect .perfect-_togo-_description-_texts-_text {
+    font-size: 14px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_logo {
+    font-size: 6px;
+  }
+
+  #perfect .perfect-_togo-_description-_texts {
+    padding: 1% 0;
+  }
+  #perfect .perfect img {
+    width: 30%;
+  }
+  #mobile .mobile-_img img {
+    height: 80%;
+  }
+  #reviews .reviews-_fox-_text {
+    font-size: 8px;
+  }
+  #discounts .discounts-_text {
+    font-size: 20px;
+  }
+  #header .header-_menu {
+    display: none;
+  }
+  #header .header-_burgerMenu {
+    display: block;
+  }
+  #burger:checked~.header-_menu{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    background: #212250;
+    width: 240px;
+    height: 1000px;
+    left: 0;
+    top: 0;
+    padding: 33px 0;
+  }
+  .header-_menu-_nav {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 60%;
+  }
+  #header .header-_menu-_nav-_button {
+    width: 100%;
+  }
+  #burger:checked~.header-_menu a{
+    padding: 30px 0;
+  }
+  #header .header-_menu img {
+    display: block;
+  }
+}
+
+@media (max-width: 576px) {
+  #hero .hero-_img {
+    width: 35%;
+  }
+  #header .header-_images {
+    width: 25%;
+  }
+  #footer .footer-_icons {
+    width: 12%;
+  }
+  #footer .footer img {
+    width: 25%;
+  }
+  #hero .hero h1 {
+    padding: 92px 0 0 0;
+  }
+  #hero .hero P {
+    font-size: 7px;
+    line-height: 14px;
+  }
+  #hero .hero h1 {
+    font-size: 80%;
+  }
+  #buy .buy p {
+    width: 90%;
+  }
+  #hero .hero P {
+    width: 60%;
+  }
+  #new .new h5 {
+    font-size: 60%;
+    width: 80%;
+  }
+  #new .new-_texts-_tittle {
+    width: 110%;
+  }
+  #perfect .perfect-_text {
+    width: 73%;
+  }
+  #hero .hero h1 {
+    width:50%;
+  }
+  #hero .hero h1 {
+    font-size: 60%;
+    line-height: 165%;
+  }
+  #new .new {
+    padding: 2% 0;
+  }
+  #new .new-_texts-_tittle {
+    font-size: 57%;
+    width: 113%;
+  }
+  #perfect .perfect img {
+    width: 35%;
+  }
+  #perfect .perfect-_togo-_feature-_texts h2 {
+    font-size: 10px;
+  }
+  #perfect .perfect-_togo-_feature-_texts-_text {
+    font-size: 7px;
+    line-height: 14px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_text {
+    font-size: 10px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_logo {
+    font-size: 7px;
+    line-height: 14px;
+  }
+  #mobile .mobile-_texts-_logo {
+    font-size: 5px;
+    line-height: 8px;
+  }
+  #footer .footer-_text p {
+    font-size: 11px;
+  }
+  #buy .buy p {
+    font-size: 13px;
+  }
+  #buy .buy h1 {
+    font-size: 25px;
+    line-height: 36px;
+  }
+  #discounts .discounts-_texts-_menus-_tittle {
+    font-size: 9px;
+    line-height: 13px;
+  }
+  #discounts .discounts-_texts-_menus {
+    padding: 1% 0 5% 0;
+  }
+
+  #discounts .discounts-_texts-_menus-_button {
+    font-size: 8px;
+  }
+  #reviews .reviews-_fox-_img-_logo-_tittle {
+    font-size: 9px;
+    line-height: 29px;
+    }
+  #reviews .reviews-_fox-_img-_logo-_text {
+    font-size: 12px;
+  }
+  #reviews .reviews-_fox-_text {
+    font-size: 6px;
+    line-height: 11px;
+  }
+  #reviews .reviews-_fox-_icon-_icons {
+    padding: 2% 2%;
+    width: 8%;
+  }
+  #reviews .reviews h1 {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  #reviews .reviews-_logo {
+    font-size: 13px;
+    line-height: 10px;
+  }
+  #mobile .mobile-_logo {
+    font-size: 6px;
+    line-height: 10px;
+  }
+  #mobile .mobile-_tittle {
+    line-height: 20px;
+    margin: 10px 0 3px 0;
+    font-size: 9px;
+    width: 80%;
+  }
+  #mobile .mobile-_texts-_tittle {
+    font-size: 7px;
+  }
+  #mobile .mobile-_btn {
+    font-size: 9px;
+    padding: 3% 5%;
+  }
+}
+
+@media (max-width: 451px) {
+  #new .new h5 {
+    font-size: 10px;
+  }
+  #perfect .perfect-_togo-_description-_texts-_text {
+    font-size: 9px;
+    line-height: 20px;
+  }
+  #perfect .perfect-_togo-_feature-_texts h2 {
+    font-size: 9px;
+    line-height: 20px;
+  }
+  #perfect .perfect-_togo-_feature-_texts-_text {
+    font-size: 5px;
+    line-height: 8px;
+  }
+  #perfect .perfect-_togo-_feature-_texts {
+    padding: 13% 0;
+  }
+  #perfect .perfect-_togo-_description-_texts-_logo {
+    font-size: 5px;
+    line-height: 8px;
+  }
+  #discounts .discounts-_text {
+    line-height: 22px;
+  }
+  #discounts .discounts-_text {
+    font-size: 13px;
+  }
+  #discounts .discounts-_tittle {
+    font-size: 8px;
+  }
+  #discounts .discounts-_tittle {
+    width: 71%;
+  }
+  #reviews .reviews-_fox-_img-_logo-_tittle {
+    font-size: 8px;
+    line-height: 13px;
+  }
+  #reviews .reviews-_fox-_img-_logo-_text {
+    font-size: 8px;
+  }
+  #reviews .reviews-_fox-_text {
+    font-size: 4px;
+    line-height: 10px;
+  }
+  #hero .hero h1 {
+    padding: 92px 0 0 0;
+  }
+  #hero .hero P {
+    font-size: 7px;
+    line-height: 14px;
+  }
+  #new .new h1 {
+    font-size: 75%;
+  }
+  #new .new-_texts-_learn {
+    font-size: 12px;
+    line-height: 1px;
+  }
+  #new .new-_grid {
+    width: 95%;
+  }
+
+
+  #perfect .perfect-_text {
+    line-height: 30px;
+    font-size: 19px;
+  }
+  #perfect .perfect-_tittle {
+    width: 82%;
+    line-height: 21px;
+  }
+  #perfect .perfect-_togo-_description-_texts {
+    padding: 13% 0;
+  }
+  #mobile .mobile-_text {
+    font-size: 11px;
+    line-height: 25px;
+  }
+  #mobile .mobile-_tittle {
+    line-height: 12px;
+    font-size: 8px;
+  }
+  #mobile .mobile-_texts {
+    margin: 5px 0 20px 0;
+  }
+  #buy .buy-_buttons-_button {
+    padding: 7px 9px;
+  }
+  #buy .buy-_buttons-_btn {
+    padding: 7px 9px;
+  }
+  #discounts .discounts-_texts-_menus-_button {
+    padding: 7px 9px;
+  }
+  #footer .footer-_btn {
+    padding: 7px 9px;
+  }
+}
+
+
+@media (max-width: 415px) {
+  #new .new h5 {
+    font-size: 8px;
+  }
+  #new .new h5 {
+    line-height: 18px;
+  }
+  #perfect .perfect-_text {
+    line-height: 24px;
+    font-size: 15px;
+  }
+  #perfect .perfect-_tittle {
+    width: 80%;
+    line-height: 19px;
+  }
+  #reviews .reviews-_fox-_img-_logo-_text {
+    font-size: 6px;
+    line-height: 9px;
+  }
+  #discounts .discounts-_texts-_menus {
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    width: 96%;
+  }
+  #discounts .discounts-_texts {
+    flex-direction: column;
+  }
+  #perfect .perfect-_togo-_feature-_texts {
+    padding: 8% 0;
+  }
+  #perfect .perfect-_togo-_description-_texts {
+    padding: 8% 0;
+  }
+  #discounts .discounts-_texts-_menus {
+    margin: 5% 0;
+  }
+  #footer .footer-_text p {
+    font-size: 8px;
+  }
+}
+@media (max-width: 380px) {
+  #perfect .perfect-_togo-_description-_texts {
+    padding: 1% 0;
+  }
+  #perfect .perfect-_togo-_feature-_texts {
+    padding: 1% 0;
+  }
+  #perfect .perfect-_tittle {
+    font-size: 10px;
+    line-height: 19px;
+  }
+
+  }
+@media (max-width: 360px) {
+  #hero .hero-_img {
+    width: 52%;
+  }
+  
+}
+@media (max-width: 320px) {
+  #new .new h1 {
+    font-size: 50%;
+  }
+  #new .new-_texts-_tittle {
+    font-size: 39%;
+  }
+  #new .new-_texts-_learn {
+    font-size: 9px;}
+  #hero .hero-_img {
+    width: 48%;
+  }
+  #perfect .perfect img {
+    width: 38%;
+  }
+  #perfect .perfect-_togo-_feature-_texts h2 {
+    padding: 1px 0 0 0;
+  }
+  #reviews .reviews-_fox-_text {
+    width: 66%;
+  }
+  #buy .buy p {
+    width: 100%;
+  }
+  #reviews .reviews-_tittle {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  #reviews .reviews-_fox-_text {
+    margin: 0 auto;
+  }
+  #reviews .reviews-_fox-_img {
+    display: block;
+  }
+  #reviews .reviews-_fox-_text {
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+  }
+  #reviews .reviews-_fox-_img-_logo-_tittle {
+    font-size: 10px;
+  }
+  #reviews .reviews-_fox-_img-_logo-_text {
+    font-size: 11px;
+    line-height: 12px;
+  }
+  #reviews .reviews {
+    padding: 50px 0;
+  }
+  #reviews .reviews-_fox-_text {
+    font-size: 9px;
+  }
+}

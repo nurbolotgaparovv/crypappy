@@ -1,0 +1,213 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+a{
+  text-decoration: none;
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+button:hover{
+  color: #faa2ff;
+  cursor: pointer;
+
+}
+@mixin btn{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 15px 32px;
+  background: none;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  border-radius: 100px;
+}
+@mixin width{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 76px;
+  color: #FFFFFF;
+  width: 600px;
+  padding: 210px 0 0 0;
+}
+@mixin lorem{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 30px;
+  color: #FFFFFF;
+  width: 630px;
+}
+@mixin rea{
+  position: relative;
+}
+@mixin position{
+  position: fixed;
+  width: 100%;
+  right: 0;
+  top: 0;
+  z-index: 8;
+}
+@mixin flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@mixin between{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 54px;
+  color: #FFFFFF;
+}
+@mixin alain{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+  width: 700px;
+}
+@mixin display{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+@mixin center{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+@mixin evenly{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 24px;
+  color: #FFFFFF;
+  width: 500px;
+}
+@mixin learn{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #159BE8;
+}
+@mixin color{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+}
+@mixin new{
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 24px;
+  padding: 10px 0;
+}
+@mixin items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+@mixin learn{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #159BE8;
+  line-height: 20px;
+}
+@mixin align{
+  display: flex;
+  align-items: center;
+}
+@mixin radius{
+  padding: 8px 10px;
+  background: #010225;
+  border-radius: 10px;
+}
+@mixin grid{
+  margin: 44px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+@mixin font{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+  color: #FFFFFF;
+}
+@mixin sans{
+  width: 8px;
+  height: 8px;
+  background: #159BE8;
+}
+@mixin around{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+@mixin evenly{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+@mixin content {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+@mixin start{
+  display: flex;
+  justify-content: space-between;
+}
+@mixin seven{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 30px;
+  color: #FFFFFF;
+}
+@mixin spartan{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF
+}
+@mixin texts{
+  font-family: 'League Spartan',sans-serif;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+@mixin height{
+  font-family: 'League Spartan',sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
